@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fff182172d726402b9e9eacdb89c9724
+timeCreated: 1490818108
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mine: {fileID: 165228, guid: 39c4b1cb02475ca4e8ac3c224ebd7cb7, type: 2}
+  - bank: {fileID: 198694, guid: 33c05df15e4e0e241b466ce175fc7770, type: 2}
+  - barrels: {fileID: 197562, guid: 4ea3d3790a3c2744886423a0b34d5f80, type: 2}
+  - wigwam: {fileID: 138242, guid: 21c8ddc719d2417438d94faf2f54ccae, type: 2}
+  - cemetary: {fileID: 175028, guid: 4ff160f4f002a4750b97412a7419d2fd, type: 2}
+  - outlawCamp: {fileID: 129846, guid: 70ad284deec1c4e938c4785025744db2, type: 2}
+  - undertakersOffice: {fileID: 147100, guid: d9b373d61dde34a7ebc0a6b448b154cb, type: 2}
+  - forrestPrefab: {fileID: 159362, guid: e284c93cf3f7b4d869f17a1e98a00688, type: 2}
+  - boardHolder: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

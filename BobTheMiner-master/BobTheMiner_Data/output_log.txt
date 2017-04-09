@@ -1,0 +1,36 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 635M (ID=0xde3)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Autonomous Agents\BobTheMiner-master\BobTheMiner_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Autonomous Agents\BobTheMiner-master\BobTheMiner_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Autonomous Agents\BobTheMiner-master\BobTheMiner_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Autonomous Agents\BobTheMiner-master\BobTheMiner_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Autonomous Agents\BobTheMiner-master\BobTheMiner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Autonomous Agents\BobTheMiner-master\BobTheMiner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Autonomous Agents\BobTheMiner-master\BobTheMiner_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Autonomous Agents\BobTheMiner-master\BobTheMiner_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Autonomous Agents\BobTheMiner-master\BobTheMiner_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Autonomous Agents\BobTheMiner-master\BobTheMiner_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.039 seconds
+Platform assembly: D:\Autonomous Agents\BobTheMiner-master\BobTheMiner_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Autonomous Agents\BobTheMiner-master\BobTheMiner_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on GameManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.876584 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 114c -> priority: 1 
